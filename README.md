@@ -4,6 +4,7 @@ This table provides an overview of the most popular Linux mobile devices availab
 # how-to-contribute
 If any device or distro you know is missing, you can add new information via github. 
 # See also
+https://opendevices.ix5.org/ - a knowledge portal of FOSS firmware for Xperia hardware.
 # Promoted devices
 These devices are trusted the most due to their support, by community or developers.
 - Cosmo Communicator, Gemini PDA and Astro Slide
